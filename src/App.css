@@ -1,0 +1,15 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+#root{
+  width: 100vw;
+  height: 100vh;
+  margin: 0 auto;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.main{
+  width: 28.5rem;
+  height: 34rem;
+}
